@@ -1,12 +1,4 @@
 
-//Aluno(a): Nycole Paulino Santos.
-//Matrícula: 2023.1.08.044
-//Diciplina: AEDs 1: Algoritmo e estrutura de dados
-//Objetivo: Adquirir conhecimentos de manipulação de valores em variáveis simples com estruturas de controle construindo estatísticas a partir de dados lidos de um arquivo-texto.
-//O código juntamente com o arquivo trata os dados, afim de fornecer ao usuário informações por ele solicitadas.
-
-
-
 //Declaração de bibliotecas 
 #include <iostream>
 #include <fstream>
